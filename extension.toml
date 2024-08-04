@@ -1,0 +1,11 @@
+id = "nelua"
+name = "Nelua"
+version = "0.1.0"
+schema_version = 1
+authors = ["Komo @cattokomo"]
+description = "Nelua support."
+repository = "https://github.com/cattokomo/zed-nelua"
+
+[grammars.nelua]
+repository = "https://github.com/cattokomo/tree-sitter-nelua.git"
+commit = "974d59b0c1944cff4eb1e27b7ab0f4d60d191b74"
